@@ -1,0 +1,26 @@
+ html {
+  background: greenyellow;
+ }   
+
+ ul {
+
+    font-size: 8 mm;
+    font-weight:bold;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+ }
+
+ 
+ 
+ ol:hover{
+     color: cyan;
+     
+ }
+
+/* body:hover {s
+
+    color: deepskyblue;
+    image-orientation: 180deg;
+ }
+ */
