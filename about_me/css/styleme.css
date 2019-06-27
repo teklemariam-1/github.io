@@ -4,15 +4,13 @@
 
  ul {
 
-    font-size: 8 mm;
+    font-size: 8px;
     font-weight:bold;
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     
  }
- img {
-    image-orientation: from-image;
-}
+ 
  
  
  ol:hover{
