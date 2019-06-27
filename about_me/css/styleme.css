@@ -10,14 +10,18 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     
  }
-
+ img {
+    image-orientation: from-image;
+}
  
  
  ol:hover{
      color: cyan;
      
  }
-
+ div.img{
+     transform: rotate(90deg)
+ }
 /* body:hover {s
 
     color: deepskyblue;
