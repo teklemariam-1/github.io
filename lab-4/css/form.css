@@ -88,3 +88,9 @@ body{
   transform: translateY(4px);
 
 }
+
+legend{
+
+    font-weight: bold;
+    font-size: 30px;
+}
