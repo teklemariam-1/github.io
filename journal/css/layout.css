@@ -1,21 +1,21 @@
 .victoria{
 	border-color: red;
 	border-width: 5px;
-	border-style: solid
+	border-style: solid;
 	
 }
 
 #first{
 	border-color:orange;
 	border-width: 5px;
-	border-style: solid
+	border-style: solid;
 }
 
 .whole{
 
 border-color: green;
 	border-width: 5px;
-	border-style: solid
+	border-style: solid;
 
 }
 
@@ -23,7 +23,7 @@ border-color: green;
 
 	border-color:blue;
 		border-width: 5px;
-		border-style: solid
+		border-style: solid;
 	
 	}
 
@@ -31,7 +31,7 @@ border-color: green;
 
 		border-color:blue;
 			border-width: 5px;
-			border-style: solid
+			border-style: solid;
 		
 		}
 
@@ -42,7 +42,7 @@ border-color: green;
 		  
 			border-color:rgb(90, 44, 143);
 			border-width: 5px;
-			border-style: solid
+			border-style: solid;
 		
 
 		}
@@ -53,7 +53,7 @@ border-color: green;
 		  
 			border-color:rgb(90, 44, 143);
 			border-width: 5px;
-			border-style: solid
+			border-style: solid;
 		
 
 		}
