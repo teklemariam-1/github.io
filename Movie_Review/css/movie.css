@@ -200,7 +200,7 @@ body{
    background-color: #E8DC9B; 
 }
  
-#c,#e,#g,#i{
+.c,.e,.g,.i{
 
     background-color: #E8DC9B;
     
@@ -211,12 +211,12 @@ body{
     
 }
 
-#b,#d,#f,#h,#j{
+.b,.d,.f,.h,.j{
 
     height: 30px;
 }
 
-#a{
+.a{
     background-color: #E8DC9B;
     
     border-color:  #b9b5b5;
