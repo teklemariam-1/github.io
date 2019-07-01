@@ -139,7 +139,7 @@ body{
     background-color:#A2B964;
     text-align: center;
     overflow: hidden;
-    offset: hidden;
+    
 
  }
   .bottom p{
@@ -189,7 +189,8 @@ body{
    }
  .top p{
      font-size: 48pt;
-     text-emphasis: bold;
+     font-weight: bold;
+     
      color: red;
      position: relative;
      left: 100px;
