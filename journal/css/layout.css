@@ -1,59 +1,107 @@
-.victoria{
-	border-color: red;
-	border-width: 5px;
-	border-style: solid;
-	
+body {
+    /*background-image: url("../images/background.gif"); */
 }
 
-#first{
+.victoria {
+    /*border-color: red;
+	border-width: 5px;
+	border-style: solid;
+	*/
+    text-align: right;
+    background-color: #A8F0F0;
+}
+
+#first {
+    /*
 	border-color:orange;
 	border-width: 5px;
 	border-style: solid;
+	*/
+    font-size: 14pt;
 }
 
-.whole{
+.whole {
+    border-width: 4px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: #C2E9E9;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    background-color: white;
+    border: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+}
 
-border-color: green;
-	border-width: 5px;
-	border-style: solid;
+.right {
+    display: inline-block;
+    position: relative;
+    margin-left: 360px;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: auto;
+    border-width: 4px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: #C2E9E9;
+    display: inline-block;
+    width: 521px;
+}
+ .part1{
+        border-width: 5px;
+        border-style: solid;
+        background-color:#E8FBFB;
+        padding: 5px;
+        margin-top: 10px;
+        overflow: auto;
+        border-width:4px;
+        border-radius: 15px 15px 15px 15px;
+        border-color:#C2E9E9;
+        display: inline-block;
+        width: 500px;
+
+
+}
+.part2{
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+    background-color: #E8FBFB;
+    margin-top: 10px;
+    border-top-width: 4px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: #C2E9E9;
+    background-color: #E8FBFB;
+    width: 500px;
+}
+
+#second,
+#third {
+    border-bottom: 2px dashed purple;
+}
+
+#spatula {
+    float: right;
+    overflow: auto;
+}
+
+.left {
+    display: inline-block;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: rgb(8, 219, 219);
+    background-color: hsl(113, 31%, 55%);
+    position: relative;
+    bottom: 450px;
+    left:300px;
 
 }
 
-.part1{
-
-	border-color:blue;
-		border-width: 5px;
-		border-style: solid;
-	
-	}
-
-	.part2{
-
-		border-color:blue;
-			border-width: 5px;
-			border-style: solid;
-		
-		}
-
-		
-
-
-		#second{
-		  
-			border-color:rgb(90, 44, 143);
-			border-width: 5px;
-			border-style: solid;
-		
-
-		}
-
-
-
-		#third{
-		  
-			border-color:rgb(90, 44, 143);
-			border-width: 5px;
-			border-style: solid;
-		
-
-		}
+.friends {
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: rgb(8, 219, 219);
+}
