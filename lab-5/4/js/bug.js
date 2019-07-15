@@ -1,4 +1,8 @@
-function somethingElse() {
+
+
+
+
+    function somethingElse() {
     if (5 > 2) {
         alert("Bigger");
     if (5 < 2) {
@@ -6,7 +10,6 @@ function somethingElse() {
     }
 }
 
-}
 
 
 
